@@ -1,0 +1,44 @@
+header{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     width: 100%;
+     padding: 20px;
+     color: grey;
+  }   	  
+ 
+.nav-link{
+	margin-left:20px;
+        color: grey;
+}
+
+.intro{
+	margin-top:20px;
+} 
+.parent-card{
+	  display: flex;
+          justify-content: space-around;
+}
+
+footer{
+	display: flex;
+        justify-content: space-between;
+	align-items: center;
+	width: 100%;
+	color:grey;
+}
+
+.ft-links{
+	margin-left: 20px;
+        color: grey;
+}
+.con{
+	color: cyan;
+}
+.topics{
+	color: cyan;
+}
+
+
+
+
